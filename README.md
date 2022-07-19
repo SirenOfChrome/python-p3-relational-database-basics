@@ -151,3 +151,4 @@ well on your way to mastering relational databases.
 ## Resources
 
 - [What is a Relational Database? - Google Cloud](https://cloud.google.com/learn/what-is-a-relational-database)
+- [Difference between Primary Key and Foreign Key - GeeksforGeeks](https://www.geeksforgeeks.org/difference-between-primary-key-and-foreign-key/)
